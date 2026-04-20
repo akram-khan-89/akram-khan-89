@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**akram-khan-89/akram-khan-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineer focused on building products people actually use.
 
-Here are some ideas to get you started:
+## 🚀 What I do
+- 🧩 Full Stack Web Development  
+- 🔧 Backend APIs with ASP.NET Core  
+- 🎨 Frontend with Angular  
+- 🗄️ Database design with SQL Server  
+- ☁️ Cloud deployment on Azure  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- ⚙️ ASP.NET Core  
+- 🔗 Entity Framework Core  
+- 🅰️ Angular  
+- 🗃️ SQL Server  
+- ☁️ Azure  
+
+## 🎯 What I care about
+- ✨ Clean and maintainable code  
+- 📦 Building scalable real-world applications  
+- 📚 Learning and improving every day  
+
+## 🤝 Let’s connect
+Always open to collaboration and interesting ideas.
