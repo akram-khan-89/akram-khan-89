@@ -22,4 +22,4 @@ I’m a Software Engineer focused on building products people actually use.
 - 📚 Learning and improving every day  
 
 ## 🤝 Let’s connect
-Always open to collaboration and interesting ideas.
+Always open to collaboration and interesting ideas
