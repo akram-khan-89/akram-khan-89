@@ -1,7 +1,5 @@
 # Hi there 👋 I'm a Software Engineer
 
-> I build full-stack products with clean architecture and real-world impact.
-
 ---
 
 ## 🚀 What I Do
